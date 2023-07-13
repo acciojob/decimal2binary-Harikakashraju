@@ -4,6 +4,7 @@ function decimalToBinary(num) {
 
 // convert to binary
 const result = number.toString(2)
+	console .log(result)
   
 }
 
